@@ -1,4 +1,4 @@
-Integration of POSTGRESQL database to Python
+Integration of PostgreSQL database to Python
 ---------
 
 * Follow the steps of installing from the given link https://www.postgresqltutorial.com/install-postgresql/
